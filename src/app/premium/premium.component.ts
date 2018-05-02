@@ -8,8 +8,7 @@ import { PremiumService } from '../services/premium.service';
 
 @Component({
   selector: 'app-premium',
-  templateUrl: './premium.component.html',
-  styleUrls: ['./premium.component.css']
+  templateUrl: './premium.component.html'
 })
 export class PremiumComponent implements OnInit {
 
